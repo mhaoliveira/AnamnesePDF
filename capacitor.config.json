@@ -1,0 +1,6 @@
+{
+  "appId": "com.anamnese.app",
+  "appName": "AnamnesePDF",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
